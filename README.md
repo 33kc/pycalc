@@ -29,4 +29,4 @@ PyCalc is a simple calculator made with python and TKinter (gui library).
 
 2. Navigate to the directory where `calculator.py` is located.
 
-3. Run the calculator script: `pycalc` (make sure you have the `pycalc.bat` script in your environmental variables.
+3. Run the calculator script: `pycalc` (make sure you have the `pycalc.bat` script in your environmental variables.).
