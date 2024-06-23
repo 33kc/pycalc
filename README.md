@@ -14,7 +14,7 @@ PyCalc is a simple calculator made with python and TKinter (gui library).
 
 ## Installation
 
-1. Clone the repository or download the `pycalc.py` file.
+1. Clone the repository.
 
 2. Ensure Python and Tkinter are installed on your system.
 
